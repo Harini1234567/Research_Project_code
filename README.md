@@ -1,2 +1,2 @@
 # Research_Project_code
-The code that was used in data analysis for research project.
+This code was used to extract coordinates from CSV files and compute motions metrics on them. To run this code change the path directory to include your CSV file path directory in 
